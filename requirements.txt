@@ -1,0 +1,10 @@
+opencv-python
+torch
+flask
+flask_socketio
+face_recognition
+pickle
+logging
+mtcnn
+concurrent
+tensorflow
