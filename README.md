@@ -2,7 +2,7 @@
  Alignmentni ichidagi alig.py ni ishga tushurgandan keyin face uchun kimlarni yuzini aniqlash kerak bo'lsa shularning rasimlari kiritiladi
 
 
-![alt text](image.png)
+![alt text](Pasted image 1.png)
 
 shu ko'rinishda chiqadi yaniy http://127.0.0.1:5000/ shulinkda.
 
