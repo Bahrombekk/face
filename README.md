@@ -1,6 +1,6 @@
 # face and spoofing
  Alignmentni ichidagi alig.py ni ishga tushurgandan keyin face uchun kimlarni yuzini aniqlash kerak bo'lsa shularning rasimlari kiritiladi
-
+https://github.com/Bahrombekk/face_spoofing1/blob/main/Alignment/uploads/Pasted%20image%201.png
 
 ![alt text]([Pasted image 1.png](https://github.com/Bahrombekk/face_spoofing1/blob/main/Alignment/uploads/Pasted%20image%201.png))
 
