@@ -20,3 +20,8 @@ shu oyna xosil bo'ladi.
 aniqligi yaxshi buning yana bir ustun tarafi rasim bilan aldab b'lmaydi
 
 ![alt text](image-3.png)
+![Face Recognition Interface](https://github.com/Bahrombekk/face_spoofing1/raw/main/Alignment/uploads/Pasted%20image%201.png)
+
+![Server Interface](https://github.com/Bahrombekk/face_spoofing1/raw/main/Alignment/uploads/image-1.png)
+
+![Spoofing Detection](https://github.com/Bahrombekk/face_spoofing1/raw/main/Alignment/uploads/image-2.png)
